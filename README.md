@@ -8,11 +8,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 You only need to have a web navigator, preferably the most updated versions:
-> Google Chrome
-> Firefox
-> Safari
-> Internet Explorer
-> Opera
+> + Google Chrome
+> + Firefox
+> + Safari
+> + Internet Explorer
+> + Opera
 
 ### Installing
 To visualize the web page on your web browser:
