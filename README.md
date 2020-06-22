@@ -37,7 +37,7 @@ To visualize the web page on your web browser:
 See also the list of [**contributors**](https://github.com/OscarFM014/diversify/graphs/contributors) who participated in this project.
 
 ## License 📄
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License
 
 ## Acknowledgments 🎁
 + Thank to my teammates, they help to learn more during the process.
